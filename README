@@ -1,0 +1,25 @@
+## Recriação do layout do YouTube
+
+### Descrição
+
+Este projeto consiste na recriação do layout do YouTube, utilizando HTML e CSS. O objetivo é usar os conceitos básicos de layout web, como o uso de flexbox.
+
+
+<br/>
+
+<img src="assets/images/youtube.jpeg" width="100%"/>
+
+<br/><br/>
+
+### Tecnologias utilizadas
+
+* HTML
+* CSS
+
+
+### Como executar o projeto
+
+Para executar o projeto, siga os seguintes passos:
+
+1. Clone o repositório do GitHub
+2. Abra o HTML no seu navegador
